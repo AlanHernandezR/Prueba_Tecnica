@@ -33,8 +33,7 @@ Esta API permite gestionar pedidos y productos, incluyendo:
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/AlanHernandezR/Prueba_Tecnica.git
    ```
 
 2. Crear un entorno virtual:
